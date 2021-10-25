@@ -1,7 +1,10 @@
-
+import TemporaryDrawer from "./Components/Sidebar.js";
 function App() {
   return (
-    <></>
+    <>
+    {TemporaryDrawer}
+    
+    </>
   );
 }
 
